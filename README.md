@@ -1,6 +1,8 @@
 # Data_Analysis_Project
 Build a powerful dashboard using Power BI , which will give the revenue number , sales quantity number and track the revenue trends.
 
+![sales_insight_dashboard_pic](https://user-images.githubusercontent.com/29626511/177542259-6c54b76d-c823-4e0c-9add-da1607ef44f3.JPG)
+
 ### Why we need to Data Analysis ?
 Data Analysis is important because it makes studying data a lot simpler and more accurate.
 
