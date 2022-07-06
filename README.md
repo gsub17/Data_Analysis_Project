@@ -17,5 +17,21 @@ With Power BI , we can create a powerful dashboard , which will have all the maj
 Project Planning using AIM's grid and data discovery. 
 AIMS Grid  - it is a project management tool and it has four components to it
 1. Purpose - What we want to do exactly ?
-             To unlock sales insights that are not
+             To unlock sales insights that are not visible before for the sales team for decision support and automate them to reduce manual time spent in data gathering.
+2. Stake Holders - Who will be involved ? Here in this case Sales director , marketing team , IT , Data & analytics team
+3. End Result - What we want to achieve ? An automated dashboard providing quick & latest sales insghts in order to support data driven decision making .
+4. Success Criteria - How you defined you project was succcessfull ? Dashboard covering sales order insights with latest data available .  Sales analyst stop data gathering manually inorder to save 20% of their business time.
+
+![image](https://user-images.githubusercontent.com/29626511/177531459-f09d373b-aaf2-4b40-9298-20e8e613260e.png)
+
+### Why don't we extract data directly from MySQL ?
+For extracting data directly from mysql database , it will slow down and affect the main stream business.
+
+#### Data cleaning and ETL 
+PowerQuery is a tool to transform our data .
+Power BI have data model which shows relationship between different table.
+Star Schema - here we have a fact table like transactions table and dimension table like entity table customer name .
+
+
+
 
