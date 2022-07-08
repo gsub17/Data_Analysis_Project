@@ -34,6 +34,12 @@ PowerQuery is a tool to transform our data .
 Power BI have data model which shows relationship between different table.
 Star Schema - here we have a fact table like transactions table and dimension table like entity table customer name .
 
+#### Challenges Faces
+![image](https://user-images.githubusercontent.com/29626511/177926694-4fdba4ee-0de1-44f8-b3c7-1d6dbe21ba7a.png)
+
+As we can see the currency are of four types in the database , but it should be of only two type INR and USD.
+Upon looking into database more carefully , I found that maximum of records were present with currency in INR\r and USD\r. So we only took the records whose currency were in INR\r and USD\r.
+
 
 
 
